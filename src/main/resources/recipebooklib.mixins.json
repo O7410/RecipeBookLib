@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "package": "o7410.recipebooklib.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "RecipeBookCategoryInvoker",
+    "RecipeBookOptionsInvoker"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+    "ClientRecipeBookMixin",
+    "RecipeBookGroupInvoker",
+    "RecipeBookGroupMixin"
+  ]
+}
