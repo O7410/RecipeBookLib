@@ -3,7 +3,7 @@
 	"id": "recipebooklib",
 	"version": "${version}",
 	"name": "Recipe Book Lib",
-	"description": "A Minecraft library for registering categories and groups to the recipe book",
+	"description": "A library for registering new categories and groups to the recipe book",
 	"authors": [
 		"7410"
 	],
